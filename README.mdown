@@ -1,0 +1,38 @@
+# How to Use Firebase to Send Notifications in iOS
+
+#### Introduction
+
+To communicate with users in an effective way, push notifications are introduced on iOS 3.0 around 2009. Push notifications are a great way to reach out to your customers and to marketize. We have explained here the ways to configure your app for the push notifications and send them using firebase without hassle.If you need a step by step explanation of the topic, you can check our article here: [How to Use Firebase to Send Notifications in iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-use-firebase-to-send-notifications-in-ios)
+
+#### Prerequisites
+
+ 1. Firebase (for sending push notifications). 
+ 2. XCode IDE (for development of the app).  
+ 3. Apple developer account (to create push notification certificates).
+ 4. iPhone Device (notifications won’t work on the simulator. To check notifications, we need device).
+
+#### The major steps involved in implementation
+
+ 1. Create push notification certificate.
+ 2. Set up firebase console.
+ 3. Create a Xcode Project & Configure it.
+ 4. Test push notifications.
+
+#### Final output
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/11/Firebase-to-Send-Notifications-in-iOS.png)](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+
+This tutorial has been presented by Nimblechapps - The coolest [iOS App Development Company](https://www.nimblechapps.com/ios-app-development-company). Checkout our [iOS app development portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs
+
+ 1. [Parsing XML Web Service in iOS With Swift](https://insights.nimblechapps.com/app-development/ios-app-development/parsing-xml-web-service-ios-swift)
+ 2. [Be Awesome with ‘Font Awesome’](https://insights.nimblechapps.com/app-development/ios-app-development/awesome-font-ios)
+ 3. [How to Make Tinder-like Swipe Gesture for iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-make-tinder-like-swipe-gesture-for-ios)
+ 4. [How to work with BLE Devices on iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-work-with-ble-devices-on-ios)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
