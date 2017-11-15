@@ -19,6 +19,7 @@ To communicate with users in an effective way, push notifications are introduced
  4. Test push notifications.
 
 #### Final output
+<br/>
 
 [![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/11/Firebase-to-Send-Notifications-in-iOS.png)](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
 
