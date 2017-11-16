@@ -21,7 +21,7 @@ To communicate with users in an effective way, push notifications are introduced
 #### Final output
 <br/>
 
-[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/11/Firebase-to-Send-Notifications-in-iOS.png)](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/11/Firebase-to-Send-Notifications-in-iOS.png)](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-use-firebase-to-send-notifications-in-ios)
 
 This tutorial has been presented by Nimblechapps - The coolest [iOS App Development Company](https://www.nimblechapps.com/ios-app-development-company). Checkout our [iOS app development portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
 
